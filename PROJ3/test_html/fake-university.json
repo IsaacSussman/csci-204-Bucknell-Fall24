@@ -1,0 +1,1785 @@
+{
+  "tag": "[document]",
+  "attributes": {
+    "text": "html"
+  },
+  "children": [
+    {
+      "tag": "html",
+      "children": [
+        {
+          "tag": "head",
+          "children": [
+            {
+              "tag": "meta",
+              "attributes": {
+                "charset": "utf-8"
+              }
+            },
+            {
+              "tag": "meta",
+              "attributes": {
+                "name": "viewport",
+                "content": "width=device-width, initial-scale=1"
+              }
+            },
+            {
+              "tag": "script",
+              "attributes": {
+                "type": "module",
+                "crossorigin": "",
+                "src": "/assets/main-COYSvO1E.js"
+              }
+            },
+            {
+              "tag": "script",
+              "attributes": {
+                "type": "module",
+                "crossorigin": "",
+                "src": "/assets/intentional-errors-3nqve99n.js"
+              }
+            },
+            {
+              "tag": "link",
+              "attributes": {
+                "rel": [
+                  "stylesheet"
+                ],
+                "crossorigin": "",
+                "href": "/assets/main-ziswJx6T.css"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "body",
+          "attributes": {
+            "text": "Google Analytics: change UA-XXXXX-X to be your site's ID."
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "class": [
+                  "navbar",
+                  "navbar-expand-lg",
+                  "bg-white",
+                  "py-4"
+                ]
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "container"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attributes": {
+                        "class": [
+                          "navbar-brand"
+                        ],
+                        "href": "/index.html",
+                        "text": null
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "src": "/images/fake-university-logo.png",
+                            "class": [
+                              "logo"
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attributes": {
+                        "class": [
+                          "navbar-toggler"
+                        ],
+                        "data-bs-toggle": "collapse",
+                        "data-bs-target": "#navbarSupportedContent",
+                        "aria-controls": "navbarSupportedContent",
+                        "aria-expanded": "false",
+                        "aria-label": "Toggle navigation"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attributes": {
+                            "class": [
+                              "navbar-toggler-line"
+                            ],
+                            "aria-hidden": ""
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "collapse",
+                          "navbar-collapse"
+                        ],
+                        "id": "navbarSupportedContent"
+                      },
+                      "children": [
+                        {
+                          "tag": "ul",
+                          "attributes": {
+                            "class": [
+                              "navbar-nav",
+                              "ms-auto",
+                              "mb-2",
+                              "me-lg-4",
+                              "mb-lg-0"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "li",
+                              "attributes": {
+                                "class": [
+                                  "nav-item",
+                                  "dropdown"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "class": [
+                                      "nav-link",
+                                      "dropdown-toggle"
+                                    ],
+                                    "href": "/courses.html",
+                                    "role": "button",
+                                    "data-bs-toggle": "dropdown",
+                                    "tabindex": "-1",
+                                    "text": "Courses"
+                                  }
+                                },
+                                {
+                                  "tag": "ul",
+                                  "attributes": {
+                                    "class": [
+                                      "dropdown-menu"
+                                    ]
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "attributes": {
+                                            "class": [
+                                              "dropdown-item"
+                                            ],
+                                            "href": "/courses.html",
+                                            "text": "All courses"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "attributes": {
+                                            "class": [
+                                              "dropdown-item"
+                                            ],
+                                            "href": "/courses/course-1.html",
+                                            "text": "English Literature"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "attributes": {
+                                            "class": [
+                                              "dropdown-item"
+                                            ],
+                                            "href": "/courses/course-2.html",
+                                            "text": "Psychology"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "attributes": {
+                                            "class": [
+                                              "dropdown-item"
+                                            ],
+                                            "href": "/courses/course-3.html",
+                                            "text": "Anthropology"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "attributes": {
+                                            "class": [
+                                              "dropdown-item"
+                                            ],
+                                            "href": "/courses/course-4.html",
+                                            "text": "Art History"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "attributes": {
+                                            "class": [
+                                              "dropdown-item"
+                                            ],
+                                            "href": "/courses/course-5.html",
+                                            "text": "Creative Writing"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "attributes": {
+                                "class": [
+                                  "nav-item"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "class": [
+                                      "nav-link"
+                                    ],
+                                    "href": "/about.html",
+                                    "text": "About"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "attributes": {
+                                "class": [
+                                  "nav-item"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "class": [
+                                      "nav-link"
+                                    ],
+                                    "href": "/research.html",
+                                    "text": "Research"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "attributes": {
+                                "class": [
+                                  "nav-item"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "class": [
+                                      "nav-link"
+                                    ],
+                                    "href": "/business.html",
+                                    "text": "Business"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "attributes": {
+                                "class": [
+                                  "nav-item"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "class": [
+                                      "nav-link"
+                                    ],
+                                    "href": "/news-and-events.html",
+                                    "text": "News & Events"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "attributes": {
+                                "class": [
+                                  "nav-item"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "class": [
+                                      "nav-link"
+                                    ],
+                                    "href": "/register.html",
+                                    "text": "Register"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/courses.html",
+                            "class": [
+                              "btn",
+                              "btn-primary"
+                            ],
+                            "text": "Explore courses"
+                          }
+                        },
+                        {
+                          "tag": "span",
+                          "attributes": {
+                            "class": [
+                              "custom-tooltip"
+                            ],
+                            "aria-hidden": "true",
+                            "text": "Take the first step towards a exciting educational journey."
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "header",
+              "attributes": {
+                "class": [
+                  "hero",
+                  "hero--home"
+                ]
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "container",
+                      "pt-lg-4"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "row"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col-sm-12",
+                              "col-md-5",
+                              "col-lg-5",
+                              "hero__content"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "h1",
+                              "attributes": {
+                                "text": "Choose"
+                              },
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "attributes": {
+                                    "text": "your future"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "ul",
+                              "attributes": {
+                                "class": [
+                                  "px-0"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "attributes": {
+                                    "text": "Embark on an extraordinary educational journey at Fake University, were the boundless realm of knowledge seemlessly converges with a suberb world of endless opportunities, shaping you in to the hero of you're own story."
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/courses.html",
+                                "class": [
+                                  "btn",
+                                  "btn-primary"
+                                ],
+                                "text": "Explore courses"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col-sm-12",
+                              "col-md-7",
+                              "col-lg-7",
+                              "align-self-end"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attributes": {
+                                "src": "/images/hero-home.png",
+                                "alt": "Home image"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "id": "main",
+                "class": [
+                  "container"
+                ]
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "search",
+                      "search--home"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "form",
+                      "attributes": {
+                        "class": [
+                          "search__form"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "input",
+                          "attributes": {
+                            "type": "text",
+                            "class": [
+                              "form-control"
+                            ]
+                          }
+                        },
+                        {
+                          "tag": "select",
+                          "attributes": {
+                            "class": [
+                              "form-select"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "option",
+                              "attributes": {
+                                "selected": "",
+                                "text": "All courses"
+                              }
+                            },
+                            {
+                              "tag": "option",
+                              "attributes": {
+                                "value": "undergraduate",
+                                "text": "Undergraduate"
+                              }
+                            },
+                            {
+                              "tag": "option",
+                              "attributes": {
+                                "value": "postgraduate",
+                                "text": "Postgraduate"
+                              }
+                            },
+                            {
+                              "tag": "option",
+                              "attributes": {
+                                "value": "language",
+                                "text": "Language"
+                              }
+                            },
+                            {
+                              "tag": "option",
+                              "attributes": {
+                                "value": "intensive",
+                                "text": "Intensive"
+                              }
+                            },
+                            {
+                              "tag": "option",
+                              "attributes": {
+                                "value": "corporate-training",
+                                "text": "Corporate Training"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "button",
+                          "attributes": {
+                            "class": [
+                              "btn",
+                              "btn-primary"
+                            ],
+                            "type": "submit",
+                            "text": "Search"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "text": ","
+                      },
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/coursse.html",
+                            "tabindex": "3",
+                            "text": "Accounting and Finance"
+                          }
+                        },
+                        {
+                          "tag": "a",
+                          "attributes": {
+                            "href": "",
+                            "tabindex": "1",
+                            "text": "Biological Sciences"
+                          }
+                        },
+                        {
+                          "tag": "a",
+                          "attributes": {
+                            "href": "",
+                            "tabindex": "4",
+                            "text": "Business and Management"
+                          }
+                        },
+                        {
+                          "tag": "a",
+                          "attributes": {
+                            "href": "",
+                            "tabindex": "2",
+                            "text": "Economics"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "cta",
+                      "cta--primary"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "row",
+                          "g-0"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col-sm-12",
+                              "col-lg-7",
+                              "cta--primary__image"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "class": [
+                                  "arrow-wrapper"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "class": [
+                                      "arrow-wrapper"
+                                    ]
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "svg",
+                                      "attributes": {
+                                        "height": "100%",
+                                        "viewbox": "0 0 370 750",
+                                        "fill": "currentColor",
+                                        "xmlns": "http://www.w3.org/2000/svg",
+                                        "preserveaspectratio": "none"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "path",
+                                          "attributes": {
+                                            "d": "M370 0L0 375L370 750V0Z"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col-sm-12",
+                              "col-lg-5",
+                              "cta--primary__content"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "h1",
+                              "attributes": {
+                                "text": "Open Day"
+                              }
+                            },
+                            {
+                              "tag": "p",
+                              "attributes": {
+                                "text": ", discover your passions, and take the first step towards an exciting educational journey with us."
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/courses.html",
+                                    "text": "courses"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/courses.html",
+                                "class": [
+                                  "btn",
+                                  "btn-primary"
+                                ],
+                                "text": "Explore courses"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "article-grid"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "row"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col",
+                              "col-12",
+                              "col-sm-6",
+                              "col-md-4"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-1.html",
+                                "text": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/images/blog/article-grid-1.png",
+                                    "class": [
+                                      "img-fluid"
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-1.html",
+                                "class": [
+                                  "article-grid__header"
+                                ],
+                                "text": "The Futur of Educaton: How Fake Universty is Preparring Students for the 21st Century"
+                              }
+                            },
+                            {
+                              "tag": "p",
+                              "attributes": {
+                                "text": "The world be changing rapidly, and education gotta keep pace. The jobs of tomorrow will be needing new skills and knowledge, and universities must prepare students for succeeding in this in this new landscape."
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-1.html",
+                                "text": "Read more"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col",
+                              "col-12",
+                              "col-sm-6",
+                              "col-md-4"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-2.html",
+                                "text": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/images/blog/article-grid-2.png",
+                                    "class": [
+                                      "img-fluid"
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-2.html",
+                                "class": [
+                                  "article-grid__header"
+                                ],
+                                "text": "A Global Leader in Educaton"
+                              }
+                            },
+                            {
+                              "tag": "p",
+                              "attributes": {
+                                "text": "Fake Universty be an world-renowned institution of higher learning, offering a wide range of undergraduate and graduate programs in the arts, sciences, and professions."
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-2.html",
+                                "text": "Read more"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col",
+                              "col-12",
+                              "col-sm-6",
+                              "col-md-4"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-3.html",
+                                "text": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/images/blog/article-grid-3.png",
+                                    "class": [
+                                      "img-fluid"
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-3.html",
+                                "class": [
+                                  "article-grid__header"
+                                ],
+                                "text": "Preparing Students for the Future of Work"
+                              }
+                            },
+                            {
+                              "tag": "p",
+                              "attributes": {
+                                "text": "The world of work be changing rapidly, and Fake Universty be committed to preparing our students for succeeding in in the future economy.We be offering a variety of programs and resources that helps students develop the skills and knowledge they be needing to succeed in the workplace."
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/blog/article-3.html",
+                                "text": "Read more"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "cta",
+                      "cta--secondary"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "row",
+                          "g-0"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col-sm-12",
+                              "col-md-5",
+                              "col-lg-6",
+                              "align-self-end",
+                              "cta--secondary__image"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attributes": {
+                                "src": "/images/cta/cta-secondary.png"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "class": [
+                              "col-sm-12",
+                              "col-md-7",
+                              "col-lg-6",
+                              "align-self-center",
+                              "cta--secondary__content"
+                            ]
+                          },
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "attributes": {
+                                "text": "Start looking for the right course"
+                              }
+                            },
+                            {
+                              "tag": "p",
+                              "attributes": {
+                                "text": "that aligns with you're passions and career aspirations from our extensive selection if offerings."
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/courses.html",
+                                    "text": "course"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "class": [
+                                  "d-flex",
+                                  "gap-2"
+                                ]
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/courses.html",
+                                    "class": [
+                                      "btn",
+                                      "btn-primary"
+                                    ],
+                                    "text": "Explore courses"
+                                  }
+                                },
+                                {
+                                  "tag": "span",
+                                  "attributes": {
+                                    "class": [
+                                      "btn",
+                                      "btn-secondary"
+                                    ],
+                                    "text": "Start your journey"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "footer",
+              "attributes": {
+                "class": [
+                  "container"
+                ]
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "row"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "a",
+                          "attributes": {
+                            "href": "#",
+                            "text": null
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attributes": {
+                                "src": "/images/fake-university-logo.png",
+                                "class": [
+                                  "logo"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "row",
+                      "mb-4",
+                      "footer-nav"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "h4",
+                          "attributes": {
+                            "text": "Solutions"
+                          }
+                        },
+                        {
+                          "tag": "ul",
+                          "children": [
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Accessibility"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Content"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Analytics"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "User Experience"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Marketing"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Mobile"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Privacy"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Platform Overview"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "h4",
+                          "attributes": {
+                            "text": "Industries"
+                          }
+                        },
+                        {
+                          "tag": "ul",
+                          "children": [
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Government"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Education"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Healthcare"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Private Sector"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Marketing"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Finance"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Web Agencies"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "h4",
+                          "attributes": {
+                            "text": "Resources"
+                          }
+                        },
+                        {
+                          "tag": "ul",
+                          "children": [
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Accessibility center"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Free accessibility book"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Blog"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Silktide Index"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Tools"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "WCAG checker"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Webinars"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "h4",
+                          "attributes": {
+                            "text": "Company"
+                          }
+                        },
+                        {
+                          "tag": "ul",
+                          "children": [
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/social-responsibility.html",
+                                    "text": "Social Responsibility"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "About Silktide"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "How Silktide works"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Our history"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Jobs"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Partners"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Pricing"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Accessibility statement"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Customers"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "h4",
+                          "attributes": {
+                            "text": "Contact Us"
+                          }
+                        },
+                        {
+                          "tag": "ul",
+                          "children": [
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "http://localhost:3000/login",
+                                    "text": "Login"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "View demo"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Link"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Support"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Contact Silktide"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "#",
+                                    "text": "Request a demo"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/pdfs/newsletter.pdf",
+                                    "text": "Inaccessible PDF #1"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/pdfs/wine-list.pdf",
+                                    "text": "Inaccessible PDF #2"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "class": [
+                      "row"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col",
+                          "col-12",
+                          "col-lg-8",
+                          "text-center",
+                          "text-lg-start",
+                          "align-self-center"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {
+                            "text": ", 101 Acme Street, Panic Lane, London EC1N 8LE"
+                          },
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {
+                                "text": "2024 Fake University"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "class": [
+                          "col",
+                          "col-12",
+                          "col-lg-4",
+                          "text-center",
+                          "text-lg-end"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {
+                            "class": [
+                              "mb-2"
+                            ],
+                            "text": "+88 (0) 100 0000 000"
+                          },
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {
+                                "text": "Phone:"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attributes": {
+                            "text": "hello@fake-university.com"
+                          },
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {
+                                "text": "Email:"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "script",
+              "attributes": {
+                "text": "(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=\n      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;\n      e=o.createElement(i);r=o.getElementsByTagName(i)[0];\n      e.src='https://www.google-analytics.com/analytics.js';\n      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));\n      ga('create','UA-XXXXX-X','auto');ga('send','pageview');"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

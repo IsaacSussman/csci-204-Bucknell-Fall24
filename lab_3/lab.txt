@@ -1,0 +1,12 @@
+Input   Stack Afterwards    Output Afterwards
+9       top -> None         9
++       top -> +            9
+1       top -> +            9 1
+        top -> None         9 1 +
+---------------------------------------------
+7       top -> None         7
+-       top -> -            7
+2       top -> -            7 2
+*       top -> * -          7 2
+8       top -> * -          7 2 8
+        top -> None         7 2 8 * -

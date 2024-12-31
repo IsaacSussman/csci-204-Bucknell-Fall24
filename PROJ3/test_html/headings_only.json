@@ -1,0 +1,64 @@
+{
+  "tag": "[document]",
+  "attributes": {
+    "text": "html"
+  },
+  "children": [
+    {
+      "tag": "html",
+      "children": [
+        {
+          "tag": "body",
+          "children": [
+            {
+              "tag": "h1",
+              "attributes": {
+                "text": "Main Heading"
+              }
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "text": "This is a paragraph."
+              }
+            },
+            {
+              "tag": "h2",
+              "attributes": {
+                "text": "Subheading Level 2"
+              }
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "h3",
+                  "attributes": {
+                    "text": "Nested Subheading"
+                  }
+                },
+                {
+                  "tag": "h6",
+                  "attributes": {
+                    "text": "Out of order"
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "attributes": {
+                        "text": "Deeper Nested Subheading"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

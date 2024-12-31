@@ -1,0 +1,9 @@
+- Best: O(1) vs O(1) Worst: O(n**2) vs O(n)
+    - LinkedList is far better at Worst Case
+- Best: O(1) vs O(1) Worst: O(n) vs O(n)
+    - About equal in deleting
+- Best: O(1) vs O(1) Worst: O(1) vs O(n)
+    - ArrayList is far faster in the Worst Case
+- LinkedList for fast insertions near end, ArrayList for fast access and equally fast beginning insertions
+
+

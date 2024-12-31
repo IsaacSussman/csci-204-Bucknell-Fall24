@@ -1,0 +1,13 @@
+Put your answers to the lab questions here.
+
+------------
+What do you observe from this plot? Does merge sort have a different runtime for sorted, reversed, and random arrays of integers?
+
+
+
+
+------------
+Does this result align with your understanding? Why or why not?
+
+
+

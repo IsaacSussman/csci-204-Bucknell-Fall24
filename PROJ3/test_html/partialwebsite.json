@@ -1,0 +1,176 @@
+{
+  "tag": "[document]",
+  "attributes": {
+    "text": "html"
+  },
+  "children": [
+    {
+      "tag": "html",
+      "attributes": {
+        "lang": "en",
+        "dir": "ltr",
+        "prefix": "og: https://ogp.me/ns#"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "children": [
+            {
+              "tag": "meta",
+              "attributes": {
+                "http-equiv": "content-type",
+                "content": "text/html; charset=UTF-8"
+              }
+            },
+            {
+              "tag": "link",
+              "attributes": {
+                "href": "data:text/css,%3Ais(%5Bid*%3D'google_ads_iframe'%5D%2C%5Bid*%3D'taboola-'%5D%2C.taboolaHeight%2C.taboola-placeholder%2C%23top-ad%2C%23credential_picker_container%2C%23credentials-picker-container%2C%23credential_picker_iframe%2C%5Bid*%3D'google-one-tap-iframe'%5D%2C%23google-one-tap-popup-container%2C.google-one-tap__module%2C.google-one-tap-modal-div%2C%23amp_floatingAdDiv%2C%23ez-content-blocker-container)%20%7Bdisplay%3Anone!important%3Bmin-height%3A0!important%3Bheight%3A0!important%3B%7D",
+                "rel": [
+                  "stylesheet"
+                ],
+                "type": "text/css"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "body",
+          "children": [
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "#main-content",
+                "class": [
+                  "c-btn",
+                  "c-btn--orange",
+                  "visually-hidden",
+                  "focusable"
+                ],
+                "alt": "main content",
+                "text": "Skip to main content"
+              }
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.bucknell.edu/",
+                "class": [
+                  "m-site-header__logo"
+                ],
+                "alt": "bucknell",
+                "text": "bucknell"
+              }
+            },
+            {
+              "tag": "h2",
+              "attributes": {
+                "class": [
+                  "visually-hidden"
+                ],
+                "id": "block-mainnavigation-menu",
+                "text": "Primary"
+              }
+            },
+            {
+              "tag": "h3",
+              "attributes": {
+                "text": "Menu Navigation Tips"
+              }
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://moodle.bucknell.edu/meet-bucknell",
+                "alt": "meet bucknell",
+                "text": "meet bucknell"
+              }
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://moodle.bucknell.edu/plan-visit",
+                "alt": "plan visit",
+                "text": "plan visit"
+              }
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://moodle.bucknell.edu/meet-bucknell/bucknell-outcomes",
+                "alt": "outcomes",
+                "text": "outcomes"
+              }
+            },
+            {
+              "tag": "img",
+              "attributes": {
+                "src": "partialwebsite_files/240826_first_day_ambient_001.00_00_00_00.still001_2.jpg",
+                "alt": "Malesardi quad"
+              }
+            },
+            {
+              "tag": "img",
+              "attributes": {
+                "src": "partialwebsite_files/CampusBeauty026.jpg",
+                "alt": "Exterior of Freas Hall"
+              }
+            },
+            {
+              "tag": "img",
+              "attributes": {
+                "src": "partialwebsite_files/CampusBeauty026.jpg",
+                "alt": "2 Exterior of Freas Hall"
+              }
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://moodle.bucknell.edu/episode-82-inside-mind-application-reader",
+                "text": "College Admissions Insider podcast logo"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "src": "partialwebsite_files/com-img-podcast_bu-pod-webimg-1584x750.htm",
+                    "alt": "College Admissions Insider podcast logo",
+                    "<a": "",
+                    "href": "https://moodle.bucknell.edu/admissions-aid/tuition-fees-financial-aid/apply-financial-aid"
+                  }
+                },
+                {
+                  "tag": "h3",
+                  "attributes": {
+                    "class": [
+                      "c-callout-row-item__title",
+                      "title",
+                      "title--xxs",
+                      "u-c-blue-dark"
+                    ],
+                    "text": "Learn about Bucknell tuition and how to apply for financial aid, work-study programs and more."
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "text": "Learn about Bucknell tuition and how to apply for financial aid, work-study programs and more."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "src": "partialwebsite_files/22fallcampusbeauty114.htm",
+                    "alt": "Fall Campus Beauty, Bertrand Library with Fall Mums"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
